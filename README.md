@@ -1,4 +1,4 @@
-# ceid
+# Concise English Interlingua Dictionary
 
 **a bit**
 1. un pauc, un poco
