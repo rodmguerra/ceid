@@ -16,7 +16,8 @@
 1. ante un xxxx
 
 **a**
-1. (indefinite article) un; (per) per [a dollar a pound = un dollar per libra]
+1. (indefinite article) un;
+1. (per) per [a dollar a pound = un dollar per libra]
 
 **aback,taken**
 1. disconcertate, surprendite, stupefacte, attonite
@@ -25,10 +26,13 @@
 1. abaco
 
 **abandon**
-1. n abandono; vt abandonar
+1. n abandono;
+1. vt abandonar
 
 **abandoned**
-1. abandonate; (deserted) *desertate; (reprobate) sin morales
+1. abandonate;
+1. (deserted) *desertate;
+1. (reprobate) sin morales
 
 **abandonment**
 1. abandono, abandonamento
@@ -43,7 +47,8 @@
 1. disconcertate
 
 **abate**
-1. vt (reduce) minuer, reducer; vi (subside) remitter, subsider
+1. vt (reduce) minuer, reducer;
+1. vi (subside) remitter, subsider
 
 **abatement**
 1. diminution
@@ -94,7 +99,8 @@
 1. appoiator, adjutator
 
 **abeyance**
-1. suspension; 
+1. suspension;
+ 
   * **in**
     1. pendente
 
@@ -108,13 +114,16 @@
 1. abhorribile (detestable) detestabile
 
 **abide by**
-1. (a law) observar; (an opinion) mantener
+1. (a law) observar;
+1. (an opinion) mantener
 
 **abide**
-1. vt tolerar; vi demorar
+1. vt tolerar;
+1. vi demorar
 
 **abiding**
-1. (faithful) fidel; 
+1. (faithful) fidel;
+ 
   * **law**
     1. observante del lege
 
@@ -131,13 +140,15 @@
 1. ablative;
 
 **ablaze**
-1. (on fire) in flammas; (glittering) resplendente
+1. (on fire) in flammas;
+1. (glittering) resplendente
 
 **able bodied**
 1. robuste
 
 **able**
-1. capace, habile; 
+1. capace, habile;
+ 
   * **be**
     1. poter
 
@@ -199,13 +210,16 @@
 1. abundante
 
 **about face**
-1. n reverso de direction; v reversar direction
+1. n reverso de direction;
+1. v reversar direction
 
 **about town**
 1. *urban, *cosmopolitan
 
 **about**
-1. adv approximativemente, circa; prep (around) circa; (concerning) de, in re, super
+1. adv approximativemente, circa;
+1. prep (around) circa;
+1. (concerning) de, in re, super
 
 **above all**
 1. super toto
@@ -217,7 +231,8 @@
 1. super le par
 
 **above**
-1. adv in alto; prep super
+1. adv in alto;
+1. prep super
 
 **abracadabra**
 1. (magical incantation) abracadabra, incantation magic
@@ -250,7 +265,8 @@
 1. *abrogar
 
 **abrupt**
-1. abrupte; brusc
+1. abrupte;
+1. brusc
 
 **abscess**
 1. abscesso
@@ -292,7 +308,8 @@
 1. absolver
 
 **absorb**
-1. (liquid) absorber; (knowledge) assimilar
+1. (liquid) absorber;
+1. (knowledge) assimilar
 
 **absorbent**
 1. absorbente
@@ -331,7 +348,9 @@
 1. abstinentia
 
 **abstract**
-1. adj abstracte; n summario; v abstraher
+1. adj abstracte;
+1. n summario;
+1. v abstraher
 
 **abstraction**
 1. abstraction
@@ -349,10 +368,14 @@
 1. abundante
 
 **abuse**
-1. n (misuse) abuso, misuso; (insult) invectiva; vt (insult) injuriar; (misuse) abusar de, misusar
+1. n (misuse) abuso, misuso;
+1. (insult) invectiva;
+1. vt (insult) injuriar;
+1. (misuse) abusar de, misusar
 
 **abusive**
-1. (misusing) abusive; (insulting) injuriose
+1. (misusing) abusive;
+1. (insulting) injuriose
 
 **abysmal**
 1. abysmal
@@ -382,7 +405,8 @@
 1. accelerator
 
 **accent**
-1. n accento; v accentuar
+1. n accento;
+1. v accentuar
 
 **accentuate**
 1. accentuar
@@ -409,16 +433,20 @@
 1. accesso
 
 **accessible**
-1. (people) abbordabile; (places) accessibile
+1. (people) abbordabile;
+1. (places) accessibile
 
 **accessory**
-1. adj accessori; n (object) accessorio; (person) complice
+1. adj accessori;
+1. n (object) accessorio;
+1. (person) complice
 
 **accident**
 1. accidente
 
 **accidental**
-1. adj accidental, fortuite; n (mus.) accidental
+1. adj accidental, fortuite;
+1. n (mus.) accidental
 
 **accidentally**
 1. accidentalmente
@@ -433,13 +461,17 @@
 1. acclimatar (se)
 
 **accommodate**
-1. (adapt) accommodar; (adjust) adjustar; (lodge) albergar, allogiar
+1. (adapt) accommodar;
+1. (adjust) adjustar;
+1. (lodge) albergar, allogiar
 
 **accommodating**
 1. accommodante
 
 **accommodation**
-1. (adapting) accommodation; (adjusting) adjustamento; (lodgings) albergo, allogiamento
+1. (adapting) accommodation;
+1. (adjusting) adjustamento;
+1. (lodgings) albergo, allogiamento
 
 **accompaniment**
 1. accompaniamento
@@ -457,12 +489,15 @@
 1. experte
 
 **accomplishment**
-1. (achievement) complimento; (gift) talento
+1. (achievement) complimento;
+1. (gift) talento
 
 **accord**
-1. n accordo; 
+1. n accordo;
+1. 
 **of one's own  **
-1. spontaneemente; v accordar (se)
+1. spontaneemente;
+1. v accordar (se)
 
 **according to**
 1. secundo, conforme a
@@ -480,7 +515,8 @@
 1. dar conto de
 
 **account**
-1. (all senses) conto; 
+1. (all senses) conto;
+1. 
 **on   of**
 1. a causa de
 
@@ -542,7 +578,9 @@
 1. (bitterness in taste) acerbitate
 
 **ache**
-1. n dolor; v doler; 
+1. n dolor;
+1. v doler;
+1. 
 **my head  s**
 1. le capite me dole
 
@@ -556,13 +594,15 @@
 1. precipitation de aciditate
 
 **acid rain**
-1. pluvia acide; pluvia acidic
+1. pluvia acide;
+1. pluvia acidic
 
 **acid test**
 1. test de acido
 
 **acid**
-1. adj acide; n acido
+1. adj acide;
+1. n acido
 
 **acidic**
 1. acide, *acidic
@@ -682,12 +722,17 @@
 1. Acto del Parlamento, lege, statuto
 
 **act**
-1. n acto; vi (do) ager; (theat.) jocar; vt representar; 
+1. n acto;
+1. vi (do) ager;
+1. (theat.) jocar;
+1. vt representar;
+1. 
 **in the  **
 1. in flagrante delicto
 
 **acting**
-1. adj *interimari; n joco
+1. adj *interimari;
+1. n joco
 
 **actinia**
 1. actinia
@@ -780,21 +825,26 @@
 1. adder
 
 **adder**
-1. (viper) vipera; (computers) *additionator, *additor, *summator
+1. (viper) vipera;
+1. (computers) *additionator, *additor, *summator
 
 **addict**
-1. (of drugs) *narcomano; (enthusiast) enthusiasta
+1. (of drugs) *narcomano;
+1. (enthusiast) enthusiasta
 
 **addiction**
-1. (to drugs) *narcomania; (enthusiasm) enthusiasmo
+1. (to drugs) *narcomania;
+1. (enthusiasm) enthusiasmo
 
 **adding machine**
 1. calculator
 
 **addition**
-1. addition, supplemento; 
+1. addition, supplemento;
+ 
   * **in**
-    1. in plus; 
+    1. in plus;
+1. 
 **in   to**
 1. preter
 
@@ -811,16 +861,22 @@
 1. putride
 
 **address**
-1. n (on letter) adresse; (speech) discurso; adresse, *direction; (a letter or person) adressar; (speak to) abbordar
+1. n (on letter) adresse;
+1. (speech) discurso;
+1. adresse, *direction;
+1. (a letter or person) adressar;
+1. (speak to) abbordar
 
 **addressee**
 1. destinatario
 
 **adept**
-1. (skillful) experte; adepto, experto
+1. (skillful) experte;
+1. adepto, experto
 
 **adept**
-1. adj experte; n adepto, experto
+1. adj experte;
+1. n adepto, experto
 
 **adequate**
 1. adequate, sufficiente
@@ -880,7 +936,8 @@
 1. adjustamento
 
 **adlib**
-1. adj ad lib; v improvisar
+1. adj ad lib;
+1. v improvisar
 
 **administer**
 1. administrar, gerer
@@ -913,10 +970,14 @@
 1. admissibile
 
 **admission**
-1. (entrance; concession) admission; (acknowledgement) confession
+1. (entrance;
+1. concession) admission;
+1. (acknowledgement) confession
 
 **admit**
-1. (allow in; concede) admitter; (acknowledge) confessar
+1. (allow in;
+1. concede) admitter;
+1. (acknowledge) confessar
 
 **admittance**
 1. admission
@@ -961,7 +1022,8 @@
 1. (praise highly) *adular
 
 **adult**
-1. adj adulte; n adulto
+1. adj adulte;
+1. n adulto
 
 **adulterate**
 1. adulterar
@@ -976,7 +1038,9 @@
 1. pagamento anticipate
 
 **advance**
-1. n avantiamento, progresso; v (go ahead) avantiar, progreder; (money) anticipar
+1. n avantiamento, progresso;
+1. v (go ahead) avantiar, progreder;
+1. (money) anticipar
 
 **advancement**
 1. avantiamento
@@ -991,7 +1055,8 @@
 1. Advento
 
 **adventure**
-1. n aventura; v aventurar (se)
+1. n aventura;
+1. v aventurar (se)
 
 **adventurous**
 1. aventurose
@@ -1030,16 +1095,19 @@
 1. judiciose, sage
 
 **advocate**
-1. n advocato; v favorar, recommendar
+1. n advocato;
+1. v favorar, recommendar
 
 **aegean**
-1. adj egee; n Mar Egee
+1. adj egee;
+1. n Mar Egee
 
 **aerate**
 1. aerar
 
 **aerial**
-1. adj aeree; n antenna
+1. adj aeree;
+1. n antenna
 
 **aerodrome**
 1. aerodromo
@@ -1051,10 +1119,12 @@
 1. atomisator
 
 **aerosol**
-1. (mist) *aerosol; (spray-canister) *atomisator
+1. (mist) *aerosol;
+1. (spray-canister) *atomisator
 
 **aerosol**
-1. [mixture; spray] aerosol
+1. [mixture;
+1. spray] aerosol
 
 **aerospace**
 1. aerospatio
@@ -1084,7 +1154,9 @@
 1. affaire
 
 **affect**
-1. (have an affect on) afficer, impressionar; (pretend) affectar; (concern) concernar
+1. (have an affect on) afficer, impressionar;
+1. (pretend) affectar;
+1. (concern) concernar
 
 **affectation**
 1. affectation, preciositate
@@ -1117,7 +1189,8 @@
 1. affirmative
 
 **affix**
-1. n affixo; v affixar
+1. n affixo;
+1. v affixar
 
 **afflict**
 1. affliger
@@ -1135,7 +1208,8 @@
 1. nervosemente excitate
 
 **afford**
-1. (give) dar; 
+1. (give) dar;
+1. 
 **we cannot  **
 1. nos non pote tolerar le expensa de
 
@@ -1143,24 +1217,29 @@
 1. (brawl) *rixa
 
 **affront**
-1. n affronto; v affrontar
+1. n affronto;
+1. v affrontar
 
 **affusion**
 1. affusion
 
 **afghan**
-1. (adj) afghan; (person) afghano
+1. (adj) afghan;
+1. (person) afghano
 
 **afghanistan**
 1. Afghanistan
 
 **afield**
-1. (astray) disviate; 
+1. (astray) disviate;
+ 
   * **far**
     1. multo lontan
 
 **afire**
-1. adj in flammas, illuminate; v descender; 
+1. adj in flammas, illuminate;
+1. v descender;
+ 
   * **set**
     1. accender, incender
 
@@ -1177,7 +1256,8 @@
 1. precitate, lo citate previemente
 
 **afraid**
-1. apprehensive, pavorose; 
+1. apprehensive, pavorose;
+1. 
 **be**
 1. timer, haber timor
 
@@ -1200,7 +1280,8 @@
 1. Africa Occidental
 
 **african**
-1. adj african; n africano
+1. adj african;
+1. n africano
 
 **after all**
 1. post toto
@@ -1227,7 +1308,9 @@
 1. vita post-morte
 
 **after**
-1. adv postea; conj post que; prep post, pois
+1. adv postea;
+1. conj post que;
+1. prep post, pois
 
 **afternoon**
 1. postmeridie
@@ -1260,7 +1343,10 @@
 1. agave
 
 **age**
-1. n (years) etate; (oldness) vetulessa, vetustate; (period) epocha; vi inveterar
+1. n (years) etate;
+1. (oldness) vetulessa, vetustate;
+1. (period) epocha;
+1. vi inveterar
 
 **aged**
 1. vetule
@@ -1281,16 +1367,21 @@
 1. (make bigger) *aggrandisar, augmentar
 
 **aggravate**
-1. (infuriate) exasperar; (worsen) aggravar
+1. (infuriate) exasperar;
+1. (worsen) aggravar
 
 **aggravating**
-1. (making worse) aggravante; (annoying) exasperante
+1. (making worse) aggravante;
+1. (annoying) exasperante
 
 **aggravation**
-1. (making worse) aggravation; (annoyance) exasperation
+1. (making worse) aggravation;
+1. (annoyance) exasperation
 
 **aggregate**
-1. adj collective, total; n aggregato, total; v aggregar (se)
+1. adj collective, total;
+1. n aggregato, total;
+1. v aggregar (se)
 
 **aggression**
 1. aggression
@@ -1326,15 +1417,18 @@
 1. (on father's side) *de parte del patre
 
 **agnostic**
-1. adj agnostic; n agnostico
+1. adj agnostic;
+1. n agnostico
 
 **agnosticism**
 1. (can't know for sure) *agnosticismo
 
 **ago**
-1. retro, passate; 
+1. retro, passate;
+1. 
 **a year  **
-1. ante un anno; 
+1. ante un anno;
+ 
   * **long**
     1. pridem
 
@@ -1357,13 +1451,15 @@
 1. *agoraphobic
 
 **agree**
-1. (concur) consentir, esser de accordo; (gram.) concordar
+1. (concur) consentir, esser de accordo;
+1. (gram.) concordar
 
 **agreeable**
 1. agradabile
 
 **agreement**
-1. (concurrence) accordo; (pact) convention
+1. (concurrence) accordo;
+1. (pact) convention
 
 **agricultural**
 1. agricole
@@ -1372,7 +1468,8 @@
 1. agricultura
 
 **aground**
-1. arenate; 
+1. arenate;
+ 
   * **run**
     1. arenar (se)
 
@@ -1389,7 +1486,8 @@
 1. *ehem
 
 **aid**
-1. n adjuta, auxilio, succurso, subvention; v adjutar, adjuvar, auxiliar, subvenir, succurrer
+1. n adjuta, auxilio, succurso, subvention;
+1. v adjutar, adjuvar, auxiliar, subvenir, succurrer
 
 **ail**
 1. doler, penar
@@ -1404,7 +1502,11 @@
 1. (target) mirar a, visar a
 
 **aim**
-1. n (object) fin, proposito,scopo; (mil.) mira; vt (blow) diriger; (gun or telescope) punctar; vi (intend) intender (de), aspirar (a)
+1. n (object) fin, proposito,scopo;
+1. (mil.) mira;
+1. vt (blow) diriger;
+1. (gun or telescope) punctar;
+1. vi (intend) intender (de), aspirar (a)
 
 **aimless**
 1. sin proposito
@@ -1431,7 +1533,9 @@
 1. aerospatio
 
 **air**
-1. n aere, aer; v aerar; 
+1. n aere, aer;
+1. v aerar;
+1. 
 **in the open **
 1. al aere libere
 
@@ -1463,13 +1567,15 @@
 1. linea aeree
 
 **airmail**
-1. posta aeree; (by   ) via aeree, per avion
+1. posta aeree;
+1. (by   ) via aeree, per avion
 
 **airman**
 1. aviator, aeronauta
 
 **airplane**
-1. aeroplano, avion; (by   ) per aeroplane, per avion, via aeree
+1. aeroplano, avion;
+1. (by   ) per aeroplane, per avion, via aeree
 
 **airport**
 1. aeroporto
@@ -1496,7 +1602,8 @@
 1. eveliator
 
 **alarm**
-1. n alarma, al(l)erta; v alarmar
+1. n alarma, al(l)erta;
+1. v alarmar
 
 **alarm,burglar**
 1. alarma de antifurto
@@ -1511,7 +1618,8 @@
 1. guai
 
 **alaska**
-1. *Alaska; (State of   ) *le Stato de Alaska
+1. *Alaska;
+1. (State of   ) *le Stato de Alaska
 
 **alauda**
 1. = ALODA
@@ -1541,7 +1649,8 @@
 1. alcohol
 
 **alcoholic**
-1. adj alcoholic; n alcoholico
+1. adj alcoholic;
+1. n alcoholico
 
 **alcoholism**
 1. alcoholismo
@@ -1556,9 +1665,11 @@
 1. *legislator urban
 
 **ale**
-1. bira; 
+1. bira;
+ 
   * **brown**
-    1. bira obscur; 
+    1. bira obscur;
+ 
   * **pale**
     1. bira clar
 
@@ -1572,7 +1683,9 @@
 1. alambic
 
 **alert**
-1. adj a(l)lerte, vigilante; n a(l)lerta; v a(l)lertar
+1. adj a(l)lerte, vigilante;
+1. n a(l)lerta;
+1. v a(l)lertar
 
 **alertness**
 1. vigilantia
@@ -1599,13 +1712,15 @@
 1. Algeria
 
 **algerian**
-1. adj algerian; n algeriano
+1. adj algerian;
+1. n algeriano
 
 **algol**
 1. lingua de programmation algol
 
 **algonguian**
-1. algonquian; (amerindian) algonquiano
+1. algonquian;
+1. (amerindian) algonquiano
 
 **algorithm**
 1. algorithmo
@@ -1614,13 +1729,16 @@
 1. algorithmic
 
 **alias**
-1. adv alias; n pseudonymo
+1. adv alias;
+1. n pseudonymo
 
 **alibi**
 1. alibi
 
 **alien**
-1. adj (different) alien; (foreign) estranie; n estraniero
+1. adj (different) alien;
+1. (foreign) estranie;
+1. n estraniero
 
 **alienate**
 1. alienar, estraniar
@@ -1629,7 +1747,9 @@
 1. alienation
 
 **alight**
-1. adj in flammas, illuminate; v descender; 
+1. adj in flammas, illuminate;
+1. v descender;
+ 
   * **set**
     1. accender, incender
 
@@ -1640,7 +1760,8 @@
 1. alineamento
 
 **alike**
-1. adj simile, similar; adv equalmente, del mesme maniera
+1. adj simile, similar;
+1. adv equalmente, del mesme maniera
 
 **alimental**
 1. (nourishing) *alimental
@@ -1652,9 +1773,11 @@
 1. san e salve
 
 **alive**
-1. vive, vivente; 
+1. vive, vivente;
+ 
   * **be**
-    1. viver, spirar; 
+    1. viver, spirar;
+ 
   * **make**
     1. vivificar, animar, reanimar
 
@@ -1668,10 +1791,12 @@
 1. con maxime fortia
 
 **all over**
-1. in tote parte; (finished) terminate
+1. in tote parte;
+1. (finished) terminate
 
 **all right**
-1. salve, correcte; interj de accordo
+1. salve, correcte;
+1. interj de accordo
 
 **all star**
 1. *omnistella
@@ -1686,7 +1811,11 @@
 1. in toto
 
 **all**
-1. adj omne, tote; adv completemente; (everybody) omnes, totes; (everything) toto; (at   ) del toto
+1. adj omne, tote;
+1. adv completemente;
+1. (everybody) omnes, totes;
+1. (everything) toto;
+1. (at   ) del toto
 
 **allah**
 1. (arabic) Deo
@@ -1698,7 +1827,8 @@
 1. allegation
 
 **allege**
-1. (affirm) allegar; (use as an excuse) pretextar
+1. (affirm) allegar;
+1. (use as an excuse) pretextar
 
 **alleged**
 1. pretense
@@ -1746,7 +1876,8 @@
 1. assignar, attribuer, distribuer
 
 **allotment**
-1. (apportioning) distribution, repartition; (land) parcella de terreno
+1. (apportioning) distribution, repartition;
+1. (land) parcella de terreno
 
 **allow for**
 1. tener conto de
@@ -1764,7 +1895,8 @@
 1. alimentos
 
 **alloy**
-1. n alligato; v alligar
+1. n alligato;
+1. v alligar
 
 **allspice**
 1. specie, condimento (de *myrto)
@@ -1782,7 +1914,8 @@
 1. allusion
 
 **ally**
-1. n alliato, confederato; v (by marriage) apparentar
+1. n alliato, confederato;
+1. v (by marriage) apparentar
 
 **alma mater**
 1. *alma matre
@@ -1800,7 +1933,8 @@
 1. quasi
 
 **alms**
-1. almosna, caritate, eleemosyna; 
+1. almosna, caritate, eleemosyna;
+ 
   * **give**
     1. facer le caritate
 
@@ -1817,18 +1951,22 @@
 1. insimul a
 
 **along**
-1. preter, secundo; 
+1. preter, secundo;
+ 
   * **get**
-    1. (manage) arrangiar se; (with a person) intender se
+    1. (manage) arrangiar se;
+1. (with a person) intender se
 
 **alongside**
-1. adv bordo a bordo; prep al latere de
+1. adv bordo a bordo;
+1. prep al latere de
 
 **aloof**
 1. multo distante
 
 **alopecia**
-1. alopecia; calvitia
+1. alopecia;
+1. calvitia
 
 **alot**
 1. multo
@@ -1876,10 +2014,12 @@
 1. (heated argument) *altercation
 
 **alternate**
-1. adj alterne, alternate; v alternar
+1. adj alterne, alternate;
+1. v alternar
 
 **alternative**
-1. adj alternative; n alternativa
+1. adj alternative;
+1. n alternativa
 
 **alternator**
 1. alternator
@@ -1931,8 +2071,8 @@
 
 **am**
 1. (be) 
-  * **i**
-    1. io es, io esse
+**i **
+1. io es, io esse
 
 **amalgamate**
 1. amalgamar (se)
@@ -1968,7 +2108,8 @@
 1. ambassator
 
 **amber**
-1. adj jalne; n ambra (jalne)
+1. adj jalne;
+1. n ambra (jalne)
 
 **ambergris**
 1. ambergris
@@ -1989,7 +2130,8 @@
 1. ambigue, equivoc
 
 **ambition**
-1. (aspiration) ambition; (unscrupulous) arrivismo
+1. (aspiration) ambition;
+1. (unscrupulous) arrivismo
 
 **ambitious**
 1. ambitiose
@@ -2004,7 +2146,8 @@
 1. (v) amblar (n) amblo
 
 **amble**
-1. n *amblo; v ir al *amblo
+1. n *amblo;
+1. v ir al *amblo
 
 **amboina**
 1. Amboina
@@ -2025,7 +2168,8 @@
 1. (walking-able) ambulatori
 
 **ambush**
-1. imboscada, insidia; v insidiar
+1. imboscada, insidia;
+1. v insidiar
 
 **amen**
 1. amen
@@ -2043,7 +2187,8 @@
 1. emendamento
 
 **amends**
-1. reparation; 
+1. reparation;
+1. 
 **make   for**
 1. reparar
 
@@ -2069,7 +2214,8 @@
 1. punition con multa
 
 **america**
-1. America; (U.S.A.) Statos Unite
+1. America;
+1. (U.S.A.) Statos Unite
 
 **america,central**
 1. America Central
@@ -2081,7 +2227,9 @@
 1. *Samoa American
 
 **american**
-1. adj (of America) american; (of U.S.A.) *statounitese; n americano
+1. adj (of America) american;
+1. (of U.S.A.) *statounitese;
+1. n americano
 
 **americium**
 1. *americium, *americio
@@ -2105,14 +2253,17 @@
 1. in medio de, inter
 
 **amiss**
-1. mal; 
+1. mal;
+ 
   * **come**
-    1. facer mal; 
+    1. facer mal;
+1. 
 **take**
 1. prender in mal parte
 
 **ammonia**
-1. (gas) ammoniaco; (solution in water) aqua ammoniac
+1. (gas) ammoniaco;
+1. (solution in water) aqua ammoniac
 
 **ammunition**
 1. munition
@@ -2142,7 +2293,8 @@
 1. amorose
 
 **amount**
-1. n amonta, quantitate; v amontar (a)
+1. n amonta, quantitate;
+1. v amontar (a)
 
 **ampere**
 1. ampere
@@ -2151,7 +2303,8 @@
 1. amphetamina
 
 **amphibian**
-1. adj amphibie; n amphibio
+1. adj amphibie;
+1. n amphibio
 
 **amphibious**
 1. amphibie
@@ -2187,7 +2340,8 @@
 1. amusante, divertente
 
 **an**
-1. (indefinite article) un; (per) per
+1. (indefinite article) un;
+1. (per) per
 
 **anabaptist**
 1. *anabaptista
@@ -2208,7 +2362,8 @@
 1. anemic
 
 **anaesthetic**
-1. adj anesthetic; n anesthetico
+1. adj anesthetic;
+1. n anesthetico
 
 **anaesthetist**
 1. anesthesista
@@ -2274,7 +2429,9 @@
 1. *ancestria, *antecedentia
 
 **anchor**
-1. n ancora, *anchore; v ancorar (se), *anchorar; 
+1. n ancora, *anchore;
+1. v ancorar (se), *anchorar;
+ 
   * **weigh**
     1. disancorar, *disanchorar, levar le ancora
 
@@ -2288,7 +2445,8 @@
 1. ancian, antique
 
 **ancillary**
-1. adj *ancillar; n adjutor
+1. adj *ancillar;
+1. n adjutor
 
 **and**
 1. e
@@ -2297,7 +2455,8 @@
 1. *andalusia
 
 **andalusian**
-1. *andalusian; *andalusiano, *andalus
+1. *andalusian;
+1. *andalusiano, *andalus
 
 **andean**
 1. Andin
@@ -2324,7 +2483,8 @@
 1. aneroide
 
 **anesthetic**
-1. adj anesthetic; n anesthetico
+1. adj anesthetic;
+1. n anesthetico
 
 **anesthetist**
 1. anesthesista
@@ -2339,16 +2499,19 @@
 1. angelic
 
 **anger**
-1. n cholera, ira; v incholerisar
+1. n cholera, ira;
+1. v incholerisar
 
 **angle**
-1. n angulo; v piscar (con linea)
+1. n angulo;
+1. v piscar (con linea)
 
 **angler**
 1. piscator (con linea)
 
 **anglican**
-1. adj anglican; n anglicano
+1. adj anglican;
+1. n anglicano
 
 **angling**
 1. pisca (con linea)
@@ -2361,8 +2524,8 @@
 
 **angry**
 1. irate, in cholera, 
-  * **get**
-    1. irascer
+**get  **
+1. irascer
 
 **anguilla**
 1. *Anguilla
@@ -2380,7 +2543,8 @@
 1. adj/n animal
 
 **animate**
-1. adj animate; v animar
+1. adj animate;
+1. v animar
 
 **animated**
 1. (lively) animate
@@ -2407,7 +2571,8 @@
 1. annamita
 
 **annex**
-1. n annexo; v annectar, annexar
+1. n annexo;
+1. v annectar, annexar
 
 **annexation**
 1. annexion
@@ -2443,7 +2608,9 @@
 1. moleste, irritante
 
 **annual**
-1. adj annual, annue; n (yearbook) annuario; (Bot. ) planta annual
+1. adj annual, annue;
+1. n (yearbook) annuario;
+1. (Bot. ) planta annual
 
 **annually**
 1. *annualmente
@@ -2479,7 +2646,9 @@
 1. anorak
 
 **another**
-1. (different) un altere; (of the sake) ancora un; 
+1. (different) un altere;
+1. (of the sake) ancora un;
+ 
   * **one**
     1. le un le altere
 
@@ -2490,7 +2659,8 @@
 1. responder de (un cosa)
 
 **answer**
-1. n (reply) responsa,replica, (solution) solution; v responder (a), replicar (a)
+1. n (reply) responsa,replica, (solution) solution;
+1. v responder (a), replicar (a)
 
 **answerable**
 1. responsabile
@@ -2514,7 +2684,8 @@
 1. Oceano Antarctic
 
 **antarctic**
-1. adj antarctic; n Antarctico, Oceano Antarctic
+1. adj antarctic;
+1. n Antarctico, Oceano Antarctic
 
 **antarctica**
 1. Antarctica
@@ -2556,10 +2727,16 @@
 1. anticorpore
 
 **anticipate**
-1. (do in advance) anticipar; (expect) expectar; (foresee) previder; (forestall) prevenir
+1. (do in advance) anticipar;
+1. (expect) expectar;
+1. (foresee) previder;
+1. (forestall) prevenir
 
 **anticipation**
-1. (doing in advance) anticipation; (expectation) expectation; (foresight) prevision; (forestalling) prevention
+1. (doing in advance) anticipation;
+1. (expectation) expectation;
+1. (foresight) prevision;
+1. (forestalling) prevention
 
 **anticlimax**
 1. anticlimax
@@ -2604,7 +2781,8 @@
 1. antiquario
 
 **antique**
-1. adj antique; n antiquitate
+1. adj antique;
+1. n antiquitate
 
 **antirrhinum**
 1. (bot) antirrhino
@@ -2613,7 +2791,8 @@
 1. antisemitic
 
 **antiseptic**
-1. adj antiseptic; n antiseptico
+1. adj antiseptic;
+1. n antiseptico
 
 **antisocial**
 1. antisocial
@@ -2664,7 +2843,9 @@
 1. de qualcunque modo (maniera)
 
 **any**
-1. (some) al(i)cun, al(i)cuno; (emphatic) qualcunque, ulle; 
+1. (some) al(i)cun, al(i)cuno;
+1. (emphatic) qualcunque, ulle;
+1. 
 **in   case**
 1. in omne caso
 
@@ -2672,7 +2853,9 @@
 1. al(i)cuno
 
 **anyhow**
-1. (however) de omne modo, in omne caso, totevia; (in spite of everything) malgrado toto; (no matter how) de qualcunque maniera
+1. (however) de omne modo, in omne caso, totevia;
+1. (in spite of everything) malgrado toto;
+1. (no matter how) de qualcunque maniera
 
 **anyone else**
 1. un altere persona
@@ -2693,7 +2876,8 @@
 1. (amerindian) *apache
 
 **apart**
-1. a parte; 
+1. a parte;
+ 
   * **come**
     1. divider se
 
@@ -2701,7 +2885,8 @@
 1. apartheid, separation racial
 
 **apartment**
-1. (flat) appartamento; (room) camera
+1. (flat) appartamento;
+1. (room) camera
 
 **apathetic**
 1. apathic
@@ -2710,7 +2895,8 @@
 1. apathia
 
 **ape**
-1. n simia; v simiar
+1. n simia;
+1. v simiar
 
 **aperitif**
 1. aperitivo
@@ -2755,7 +2941,8 @@
 1. aplomb, completemente composte, completemente componite
 
 **apocalypse**
-1. *apocalypse, revelation; 
+1. *apocalypse, revelation;
+1. 
 **book of**
 1. libro del *apocalypse, libro del revelation
 
@@ -2799,7 +2986,8 @@
 1. apparente
 
 **appeal**
-1. n appello; v appellar
+1. n appello;
+1. v appellar
 
 **appealing**
 1. attractive
@@ -2808,7 +2996,10 @@
 1. apparer, parer
 
 **appearance**
-1. (coming into sight) apparition; (aspect) apparentia; (biblical) apparentia, *parousia; 
+1. (coming into sight) apparition;
+1. (aspect) apparentia;
+1. (biblical) apparentia, *parousia;
+1. 
 **make an **
 1. facer un apparentia, apparer
 
@@ -2825,7 +3016,8 @@
 1. appetito
 
 **appetizing**
-1. appetitive; appetitose
+1. appetitive;
+1. appetitose
 
 **applaud**
 1. applauder, plauder
@@ -2852,19 +3044,23 @@
 1. candidato, sollicitator
 
 **application**
-1. (putting on, putting to use, effort) application; (for a post) sollicitation
+1. (putting on, putting to use, effort) application;
+1. (for a post) sollicitation
 
 **apply for**
 1. (for a position) sollicitar (un posto)
 
 **apply**
-1. vt applicar; vi esser applicabile,referer se
+1. vt applicar;
+1. vi esser applicabile,referer se
 
 **appoint**
-1. (prescribe) fixar, prescriber; (to a position) appunctar, nominar
+1. (prescribe) fixar, prescriber;
+1. (to a position) appunctar, nominar
 
 **appointment**
-1. (meeting) appunctamento; (to a position) nomination
+1. (meeting) appunctamento;
+1. (to a position) nomination
 
 **appraise**
 1. appreciar, valutar
@@ -2873,7 +3069,9 @@
 1. appreciabile
 
 **appreciate**
-1. vt (value) appreciar, valutar; (understand) apprehender, notar; vi (rise in value) crescer in valor
+1. vt (value) appreciar, valutar;
+1. (understand) apprehender, notar;
+1. vi (rise in value) crescer in valor
 
 **appreciation**
 1. appreciation
@@ -2891,22 +3089,28 @@
 1. apprehensive
 
 **apprentice**
-1. n apprentisse; v mitter in apprentissage
+1. n apprentisse;
+1. v mitter in apprentissage
 
 **apprenticeship**
 1. apprentissage
 
 **approach**
-1. n (nearing) approche; (access) accesso; (to a problem) accostamento; v approchar (se), approximar (se)
+1. n (nearing) approche;
+1. (access) accesso;
+1. (to a problem) accostamento;
+1. v approchar (se), approximar (se)
 
 **approachable**
 1. approchabile, abbordabile
 
 **appropriate**
-1. adj appropriate, applicabile; v appropriar se (un cosa)
+1. adj appropriate, applicabile;
+1. v appropriar se (un cosa)
 
 **approval**
-1. approbation, sanction; 
+1. approbation, sanction;
+1. 
 **on**
 1. pro acceptation o retorno
 
@@ -2914,7 +3118,8 @@
 1. approbar, sanctionar
 
 **approximate**
-1. adj approximative; v approximar (se)
+1. adj approximative;
+1. v approximar (se)
 
 **approximately**
 1. circa, approximativemente
@@ -2977,7 +3182,8 @@
 1. *aquifero
 
 **arab**
-1. adj arabe, arabic; n arabe
+1. adj arabe, arabic;
+1. n arabe
 
 **arabesque**
 1. *arabesc, *arabesco
@@ -2986,7 +3192,8 @@
 1. Arabia
 
 **arabic**
-1. adj arabe, arabic; n arabe
+1. adj arabe, arabic;
+1. n arabe
 
 **arable**
 1. arabile
@@ -3046,7 +3253,8 @@
 1. arcada, passage
 
 **arch**
-1. n arco; vt arcar
+1. n arco;
+1. vt arcar
 
 **archaelogically**
 1. *archeologicamente
@@ -3100,7 +3308,8 @@
 1. Oceano Arctic
 
 **arctic**
-1. adj arctic; n Arctico, Oceano Arctic
+1. adj arctic;
+1. n Arctico, Oceano Arctic
 
 **ardennes,the**
 1. Ardennes,Le
@@ -3124,7 +3333,8 @@
 1. son, esse, es (see BE)
 
 **area**
-1. (surface) area; (region) region
+1. (surface) area;
+1. (region) region
 
 **aren't**
 1. (milit.) no es, non esse
@@ -3148,7 +3358,8 @@
 1. arguer, argumentar
 
 **argument**
-1. (dispute) disputa, altercation; (reason) argumento
+1. (dispute) disputa, altercation;
+1. (reason) argumento
 
 **argumentative**
 1. argumentative
@@ -3163,7 +3374,8 @@
 1. correctemente, justemente
 
 **arise**
-1. (originate) nascer, provenir; (rise) altiar se, surger
+1. (originate) nascer, provenir;
+1. (rise) altiar se, surger
 
 **aristocracy**
 1. aristocratia
@@ -3181,7 +3393,8 @@
 1. con brac(h)ios juncte
 
 **arm**
-1. n (anat.) brac(h)io; (weapon) arma, v armar (se)
+1. n (anat.) brac(h)io;
+1. (weapon) arma, v armar (se)
 
 **armada**
 1. armada
@@ -3223,7 +3436,8 @@
 1. arsenal
 
 **arms**
-1. armas; 
+1. armas;
+1. 
 **in , under **
 1. armate
 
@@ -3240,36 +3454,48 @@
 1. aromatic
 
 **around**
-1. circa; 
+1. circa;
+ 
   * **get**
-    1. ambular; 
+    1. ambular;
+ 
   * **stand**
     1. circumstar
 
 **arouse**
-1. (stir) excitar; (from sleep) eveliar
+1. (stir) excitar;
+1. (from sleep) eveliar
 
 **arquebus**
 1. arquebuse
 
 **arrange**
-1. (order) arrangiar, disponer; (mus.) adaptar
+1. (order) arrangiar, disponer;
+1. (mus.) adaptar
 
 **arrangement**
-1. (order) arrangiamento, disposition; (mus.) adaptation; 
+1. (order) arrangiamento, disposition;
+1. (mus.) adaptation;
+1. 
 **make  s**
 1. facer le preparativos
 
 **array**
-1. n ordine; arrangiamento, *serie, *matrice; (in algorithms) arrangiar; v (an army) ordinar, arrangiar; (deck out) adornar, vestir
+1. n ordine;
+1. arrangiamento, *serie, *matrice;
+1. (in algorithms) arrangiar;
+1. v (an army) ordinar, arrangiar;
+1. (deck out) adornar, vestir
 
 **arrears**
-1. arretrate; 
+1. arretrate;
+1. 
 **be in  **
 1. arretrar se
 
 **arrest**
-1. n arresto, arrestation; v arrestar
+1. n arresto, arrestation;
+1. v arrestar
 
 **arrival**
 1. arrivata, advenimento
@@ -3326,7 +3552,8 @@
 1. articulo
 
 **articulate**
-1. adj articulate; v articular
+1. adj articulate;
+1. v articular
 
 **articulation**
 1. articulation
@@ -3383,7 +3610,8 @@
 1. tante
 
 **as much**
-1. tanto; (+ noun) tante
+1. tanto;
+1. (+ noun) tante
 
 **as soon**
 1. si tosto que
@@ -3392,7 +3620,9 @@
 1. anque
 
 **as**
-1. adv como; conj (since) pois que, proque; 
+1. adv como;
+1. conj (since) pois que, proque;
+1. 
 **white   snow**
 1. si/tanto blanc como le nive
 
@@ -3421,15 +3651,18 @@
 1. mercuridi del cineres
 
 **ash**
-1. (cinders) cinere; (bot.) fraxino
+1. (cinders) cinere;
+1. (bot.) fraxino
 
 **ashamed**
-1. confuse; 
+1. confuse;
+ 
   * **be**
     1. haber vergonia
 
 **ashore**
-1. super le terra; 
+1. super le terra;
+ 
   * **go**
     1. disbarcar
 
@@ -3446,22 +3679,27 @@
 1. Asia Meridional
 
 **asian**
-1. adj asiatic; n asiatico
+1. adj asiatic;
+1. n asiatico
 
 **aside**
 1. adj parte, al latere
 
 **ask a question**
-1. facer un demanda; facer un question
+1. facer un demanda;
+1. facer un question
 
 **ask**
-1. (enquire) demandar, inquirer; (invite) invitar
+1. (enquire) demandar, inquirer;
+1. (invite) invitar
 
 **askew**
-1. adj oblique; adv de transverso
+1. adj oblique;
+1. adv de transverso
 
 **asleep**
-1. addormite; 
+1. addormite;
+ 
   * **fall**
     1. addormir se
 
@@ -3508,7 +3746,8 @@
 1. assassination
 
 **assault**
-1. n assalto, attacco; v assaltar
+1. n assalto, attacco;
+1. v assaltar
 
 **assemble**
 1. vt (gather) assemblar;(a machine) adjustar, montar;vi assemblar se
@@ -3526,7 +3765,8 @@
 1. assemblea
 
 **assent**
-1. n assentimento, sanction; v acceder (a), assentir (a)
+1. n assentimento, sanction;
+1. v acceder (a), assentir (a)
 
 **assert oneself**
 1. imponer su autoritate
@@ -3541,13 +3781,18 @@
 1. assertive
 
 **assess**
-1. (evaluate) evalutar; (fix a quota for) quotisar; (tax) taxar
+1. (evaluate) evalutar;
+1. (fix a quota for) quotisar;
+1. (tax) taxar
 
 **assessment**
-1. (evaluation) evalutation; (contribution) quotisation; (tax) taxation
+1. (evaluation) evalutation;
+1. (contribution) quotisation;
+1. (tax) taxation
 
 **asset**
-1. (property) possession; (advantage) avantage, bon qualitate
+1. (property) possession;
+1. (advantage) avantage, bon qualitate
 
 **assets**
 1. (com.) activo
@@ -3571,13 +3816,16 @@
 1. adjuta, assistentia
 
 **assistant**
-1. (helper) assistente; (in a shop) commisso
+1. (helper) assistente;
+1. (in a shop) commisso
 
 **assizes**
 1. assises, sessiones de un tribunal
 
 **associate**
-1. adj associate; n associato, socio; v associar (se)
+1. adj associate;
+1. n associato, socio;
+1. v associar (se)
 
 **association**
 1. association
@@ -3589,10 +3837,12 @@
 1. assortimento
 
 **assume**
-1. (suppose) supponer; (take on) assumer
+1. (suppose) supponer;
+1. (take on) assumer
 
 **assurance**
-1. (certainty) assecurantia; (self-confidence) disinvoltura
+1. (certainty) assecurantia;
+1. (self-confidence) disinvoltura
 
 **assure**
 1. assecurar
@@ -3601,7 +3851,8 @@
 1. *Assyria
 
 **assyrian**
-1. *assyrie; *assyrio
+1. *assyrie;
+1. *assyrio
 
 **asterisk**
 1. asterisco
@@ -3610,7 +3861,8 @@
 1. asthma
 
 **asthmatic**
-1. adj asthmatic; n asthmatico
+1. adj asthmatic;
+1. n asthmatico
 
 **astonish**
 1. stupefacer, surprender
@@ -3622,14 +3874,18 @@
 1. stupefacer
 
 **astray**
-1. foras del strata; 
+1. foras del strata;
+ 
   * **go**
-    1. disviar se; 
+    1. disviar se;
+ 
   * **lead**
     1. discamminar
 
 **astride**
-1. adv (with legs apart) con le gambas a parte; (on horseback) a cavallo; prep trans
+1. adv (with legs apart) con le gambas a parte;
+1. (on horseback) a cavallo;
+1. prep trans
 
 **astrologer**
 1. astrologo
@@ -3671,7 +3927,8 @@
 1. in duo
 
 **asylum**
-1. asylo; 
+1. asylo;
+ 
   * **lunatic**
     1. asylo pro alienatos
 
@@ -3735,7 +3992,8 @@
 1. Oceano Atlantic
 
 **atlantic**
-1. adj atlantic; n Atlantico, Oceano Atlantic
+1. adj atlantic;
+1. n Atlantico, Oceano Atlantic
 
 **atlas**
 1. atlas
@@ -3789,10 +4047,13 @@
 1. attache
 
 **attachment**
-1. (affection, fastening) attaccamento, attachamento; (adherence) adherentia; (accessory) accessorio
+1. (affection, fastening) attaccamento, attachamento;
+1. (adherence) adherentia;
+1. (accessory) accessorio
 
 **attack**
-1. n attacco; v attaccar
+1. n attacco;
+1. v attaccar
 
 **attacker**
 1. aggressor
@@ -3804,22 +4065,30 @@
 1. attingimento
 
 **attempt**
-1. (try) essayo, tentativa; (criminal) attentato; v essayar, tentar, provar
+1. (try) essayo, tentativa;
+1. (criminal) attentato;
+1. v essayar, tentar, provar
 
 **attend to**
 1. attender
 
 **attend**
-1. vt (be present at) assister a; (accompany) accompaniar; (med.) attender; (school) frequentar; vi (pay attention) prestar attention
+1. vt (be present at) assister a;
+1. (accompany) accompaniar;
+1. (med.) attender;
+1. (school) frequentar;
+1. vi (pay attention) prestar attention
 
 **attendance**
-1. (presence) assistentia; (service) servicio
+1. (presence) assistentia;
+1. (service) servicio
 
 **attendant**
 1. attendente, custode
 
 **attention**
-1. attention; 
+1. attention;
+ 
   * **pay**
     1. prestar attention
 
@@ -3854,7 +4123,8 @@
 1. attributibile
 
 **attribute**
-1. n attributo; v attribuer
+1. n attributo;
+1. v attribuer
 
 **au pair**
 1. *au pair, servitrice *au pair
@@ -3863,7 +4133,8 @@
 1. castanie clar
 
 **auction**
-1. n auction; v auctionar
+1. n auction;
+1. v auctionar
 
 **auctioneer**
 1. auctionator
@@ -3878,7 +4149,8 @@
 1. audibile
 
 **audience**
-1. (interview) audientia; (listeners) auditorio
+1. (interview) audientia;
+1. (listeners) auditorio
 
 **audiovisual**
 1. audiovisual
@@ -3887,10 +4159,12 @@
 1. *audiovisualmente
 
 **audit**
-1. n verification de contos; v verificar
+1. n verification de contos;
+1. v verificar
 
 **audition**
-1. n audition; v dar audition a
+1. n audition;
+1. v dar audition a
 
 **auditor**
 1. revisor, verificator de contos
@@ -3929,13 +4203,15 @@
 1. Australia
 
 **australia,south**
-1. Australia del Sud; Australia del Meridional
+1. Australia del Sud;
+1. Australia del Meridional
 
 **australia,western**
 1. Australia Occidental
 
 **australian**
-1. adj australian; n australiano
+1. adj australian;
+1. n australiano
 
 **austria**
 1. Austria
@@ -3947,7 +4223,8 @@
 1. basse Austria
 
 **austrian**
-1. adj austriac; n austriaco
+1. adj austriac;
+1. n austriaco
 
 **autarky**
 1. autarkia
@@ -3965,7 +4242,8 @@
 1. autoritari
 
 **authoritative**
-1. (of document) autorisate; (of manner) autoritari, autoritative
+1. (of document) autorisate;
+1. (of manner) autoritari, autoritative
 
 **authority**
 1. autoritate
@@ -3989,13 +4267,15 @@
 1. autobiographia
 
 **autograph**
-1. n autographo; v autographiar
+1. n autographo;
+1. v autographiar
 
 **automatic**
 1. automatic
 
 **automation**
-1. automation; automisation
+1. automation;
+1. automisation
 
 **automobile**
 1. automobile
@@ -4010,7 +4290,8 @@
 1. autumno
 
 **auxiliary**
-1. adj auxiliar; n auxiliator
+1. adj auxiliar;
+1. n auxiliator
 
 **availability**
 1. disponibilitate
@@ -4037,7 +4318,11 @@
 1. fidantia de avaria
 
 **average**
-1. adj medie; n media; v calcular le media de, render le media de; (marine insurance) avaria; 
+1. adj medie;
+1. n media;
+1. v calcular le media de, render le media de;
+1. (marine insurance) avaria;
+ 
   * **on**
     1. in media
 
@@ -4075,7 +4360,8 @@
 1. attender
 
 **awake**
-1. adj vigile; v eveliar (se)
+1. adj vigile;
+1. v eveliar (se)
 
 **awaken**
 1. eveliar (se)
@@ -4084,7 +4370,9 @@
 1. evelia
 
 **award**
-1. n (prize) premio, precio; (reward) recompensa; v adjudicar, premiar
+1. n (prize) premio, precio;
+1. (reward) recompensa;
+1. v adjudicar, premiar
 
 **aware**
 1. conscie
@@ -4096,7 +4384,8 @@
 1. YOU! via!, parti!, marcha!
 
 **away**
-1. foras, via; 
+1. foras, via;
+1. 
 **xxx kilometres **
 1. a xxx kilometros
 
@@ -4113,10 +4402,12 @@
 1. terribile
 
 **awfully**
-1. terribilemente; multo
+1. terribilemente;
+1. multo
 
 **awkward**
-1. (clumsy) inhabile; (ticklish, difficult to deal with) difficile, embarassose
+1. (clumsy) inhabile;
+1. (ticklish, difficult to deal with) difficile, embarassose
 
 **awl**
 1. alesna
